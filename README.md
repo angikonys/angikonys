@@ -1,1 +1,1 @@
-[![angikonys's GitHub stats](https://github-readme-stats.vercel.app/api?username=angikonys)](https://github.com/anuraghazra/github-readme-stats)]
+[![angikonys's GitHub stats](https://github-readme-stats.vercel.app/api?username=angikonys)](https://github.com/anuraghazra/github-readme-stats) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angikonys&layout=compact" alt="angikonys's Most used languages"  />](https://github.com/anuraghazra/github-readme-stats)
